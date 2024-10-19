@@ -1,0 +1,7 @@
+{
+    "watch": ["src-tauri", "src"],
+    "ignore": ["src-tauri/notes.json"],
+    "ext": "js,ts,tsx,rs,json",
+    "exec": "npm run tauri dev"
+  }
+  
